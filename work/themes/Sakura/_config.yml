@@ -86,17 +86,17 @@ movies:
   # 多个视频用逗号隔开，随机获取。支持的格式目前已知MP4,Flv。其他的可以试下，不保证有用
   name: Unbroken.mp4
 
-# aplayer: 
-#   id: 2660651585
-#   server: netease
-#   type: playlist
-#   fixed: true
-#   autoplay: false
-#   loop: all
-#   order: random
-#   preload: auto
-#   volume: 0.7
-#   mutex: true
+aplayer: 
+  id: 6730941065
+  server: netease
+  type: playlist
+  fixed: true
+  autoplay: false
+  loop: all
+  order: random
+  preload: auto
+  volume: 0.7
+  mutex: true
 
 # Valine
 valine: true
